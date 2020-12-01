@@ -1,0 +1,2 @@
+# CVPixelBufferConversionTools
+CVPixelBuffer合流，CVPixelBuffer和UIImage和流（支持BGRA和NV12类型）
